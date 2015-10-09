@@ -1,2 +1,9 @@
 # python-syntax
-Talking of it all
+
+
+
+
+
+parrot = "norwegian blue"
+
+print parrot.upper()
